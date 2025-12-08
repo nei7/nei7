@@ -1,7 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Nix        1 hr 54 mins    ██████████████░░░░░░░░░░░   56.57 %
+QML        49 mins         ██████░░░░░░░░░░░░░░░░░░░   24.47 %
+Markdown   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+JSON       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Other      8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 ```
 
 <!--END_SECTION:waka-->
