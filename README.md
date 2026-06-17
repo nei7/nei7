@@ -3,8 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Objective-C   35 mins               █████████████████████████   99.86 %
-MATLAB        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
